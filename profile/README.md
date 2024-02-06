@@ -5,3 +5,8 @@
 # Polsu Development
 
 </div>
+
+- Website: [polsu.xyz](https://polsu.xyz)
+- Overlay: [overlay.polsu.xyz](https://overlay.polsu.xyz)
+- Discord: [discord.polsu.xyz](https://discord.polsu.xyz)
+- Invite: [invite.polsu.xyz](https://invite.polsu.xyz)
